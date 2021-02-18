@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'welcome to the new app';
+  title = 'this is a new andgit  new app';
 }
